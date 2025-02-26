@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351923012722",
+    "project_id": "students-absent876",
+    "storage_bucket": "students-absent876.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351923012722:android:361c4ea8d366febf272eeb",
+        "android_client_info": {
+          "package_name": "com.example.student_attandance_with_mlkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcT1uzTvj7e-MpaObwaGHwMRX6UVHelsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
